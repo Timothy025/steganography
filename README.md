@@ -65,9 +65,6 @@ Audio Steganography
 Youtube link 
 https://www.youtube.com/watch?v=xepNoHgNj0w
 
-GITHUB LINK
-https://github.com/Timothy025/steganography
-
 CONTRIBUTERS 
 Nandika L R
 Sneha C I
